@@ -1,0 +1,25 @@
+body {
+        color: white;
+        background-color: black;
+        font-size: 100%;
+        text-align: center;
+    }
+
+
+p {
+    color: aqua;
+    background-color: blue;
+    line-height: 100px;
+    font-size: 100%;
+    text-align: left;
+}
+
+img {
+    max-width: 15%;
+}
+.center{
+    align-items: center;
+    text-align: center;
+    font-size: 32px;
+}
+
